@@ -1,4 +1,4 @@
-import 'models/team.dart';
+import '../models/team.dart';
 
 List<Team> teamsData = [
   Team(position: 1,  name: 'Atletico Madrid', points: 11, played: 5, won: 3, drawn: 2, lost: 0, against: 4,  gd: 3),

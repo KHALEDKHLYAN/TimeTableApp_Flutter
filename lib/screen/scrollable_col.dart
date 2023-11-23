@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:timetable_app/data.dart';
+import 'package:timetable_app/mocks/data.dart';
 
 
 class ScrollableColumnWidget extends StatelessWidget {
